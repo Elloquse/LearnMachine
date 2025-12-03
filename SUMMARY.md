@@ -7,4 +7,4 @@
 
 ## Общие понятия машинки
 
-* [Page 1](obshie-ponyatiya-mashinki/page-1.md)
+* [Логистическая регрессия](obshie-ponyatiya-mashinki/logisticheskaya-regressiya.md)
